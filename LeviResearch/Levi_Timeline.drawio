@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="source-volumes-one-timeline" name="Source volumes">
-        <mxGraphModel dx="18480" dy="8946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="22400" pageHeight="2103" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="952" dy="4820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="22400" pageHeight="2103" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1291,7 +1291,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="2zcWGtw5zmKfbrun1eY2-6" value="Prisoner held at POW Depot at Portsmouth&lt;br&gt;Search ADM 103 POW register" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-                    <mxGeometry x="3340" y="-1782.5" width="190" height="110" as="geometry"/>
+                    <mxGeometry x="3358.94" y="-1975" width="190" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="2zcWGtw5zmKfbrun1eY2-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2zcWGtw5zmKfbrun1eY2-8" target="2zcWGtw5zmKfbrun1eY2-13">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1302,11 +1302,11 @@
                 <mxCell id="2zcWGtw5zmKfbrun1eY2-8" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;December 29th, 1813&lt;br&gt;Guernsey&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;arrived at battalion headquarters in Guernsey&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
                     <mxGeometry x="3774.8399999999997" y="-1852.5" width="100" height="250" as="geometry"/>
                 </mxCell>
-                <mxCell id="2zcWGtw5zmKfbrun1eY2-9" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;WO_23-7088&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Muster Book&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.11904761904761904;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-                    <mxGeometry x="3613.68" y="-1950" width="170" height="80" as="geometry"/>
+                <mxCell id="2zcWGtw5zmKfbrun1eY2-9" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;WO_12-7088&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Muster Book&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.11904761904761904;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="3750" y="-1960" width="170" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="2zcWGtw5zmKfbrun1eY2-10" value="&lt;strong&gt;TNA, WO 12/7088, 7th Battalion 60th Foot, quarterly pay-list 25 Dec 1813 – 24 Mar 1814, Voucher No. 1&lt;/strong&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.11904761904761904;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-                    <mxGeometry x="3611.18" y="-2060" width="170" height="80" as="geometry"/>
+                    <mxGeometry x="3562.0299999999997" y="-1960" width="170" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="2zcWGtw5zmKfbrun1eY2-12" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2zcWGtw5zmKfbrun1eY2-13" target="2zcWGtw5zmKfbrun1eY2-15">
                     <mxGeometry relative="1" as="geometry"/>
@@ -14800,7 +14800,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="su0QEEOfObUCnsoVIJAg" name="Page-1">
-        <mxGraphModel dx="1270" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="9890" dy="6930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
